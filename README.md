@@ -1,2 +1,3 @@
 # predicted-blt-ingredient-prices-using-rstudio
 Data visualization of each ingredient of a traditional BLT, featuring the reactive elements of the price at the predicted year, and the individually displayed variables.
+In this project, I used Rstudio to make linear regression models of the predicted price of the ingredients of a BLT, that being bread, bacon, lettuce, and tomatoes multiple years in the future. This data was displayed graphically with reactive elements like the predicted year and individually displayed variables being included and adjustable within the application, and simple descriptors and analysis adjusted to these reactive elements.
